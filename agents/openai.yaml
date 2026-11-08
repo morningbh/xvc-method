@@ -1,0 +1,12 @@
+interface:
+  display_name: XVC Method v4
+  short_description: Design time-constrained research around keystone uncertainties, cheap kill tests, kill ladders, evidence rubrics, and AI prompts
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
