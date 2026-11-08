@@ -26,7 +26,6 @@ I want to research whether two memory companies are still worth medium-term allo
 ### Good v4 routing
 Primary mode: normative or decision framing
 Secondary modes: scenario inquiry and mechanism explanation
-Special reference: `cyclical-investment-research.md`
 
 ### Keystone uncertainty
 Whether current stock prices have already priced a long enough high-memory-price cycle, or whether the market is underpricing how long supply-demand tightness can persist.

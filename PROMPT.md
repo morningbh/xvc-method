@@ -191,7 +191,6 @@ Consult these files when relevant:
 - `references/keystone-uncertainty.md` for selecting the most decision-dominant uncertainty
 - `references/kill-ladder.md` for cheap kill tests, preserve criteria, and escalation rules
 - `references/mechanism-recursive-decomposition.md` for decomposing system mechanisms and duration drivers
-- `references/cyclical-investment-research.md` for cycles, prices, supply-demand imbalance, capacity, inventory, and market-implied earnings
 - `references/research-modes.md` for routing uncertainty types
 - `references/method-families.md` for choosing methods
 - `references/ai-assisted-research.md` for AI roles and prompts

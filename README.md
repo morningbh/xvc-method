@@ -16,7 +16,7 @@ It designs research; it deliberately does not answer the underlying question or 
 |---|---|
 | `SKILL.md` | Entry point in the Agent Skills format (Claude Code, Codex, and other agents that load `SKILL.md`). |
 | `PROMPT.md` | The full method instructions. |
-| `references/` | Supporting modules: research modes, kill ladder, keystone uncertainty, mechanism decomposition, evidence rubric, cyclical investment research, worked examples, and more. |
+| `references/` | Supporting modules: research modes, kill ladder, keystone uncertainty, mechanism decomposition, evidence rubric, worked examples, and more. |
 | `agents/openai.yaml` | Display metadata for OpenAI agent surfaces. |
 
 ## Use
